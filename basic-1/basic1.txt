@@ -1,0 +1,5 @@
+Topics to cover: 
+
+functions.
+arrays.
+Math operators.
